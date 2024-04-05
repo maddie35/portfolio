@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+a::before {
+  /* fallback content */
+  content: url("https://www.mathsisfun.com/geometry/images/dimensions.svg")
+    "Zero dimensions is a single dot. One dimension is a line. Two dimensions is a square. And three dimensions is a cube.";
+  /* content with alternative text */
+  content: url("https://mozorg.cdn.mozilla.net/media/img/favicon.ico") /
+    " Black hole ";
+  font:
+    x-small Arial,
+    sans-serif;
+  color: gray;
+}
