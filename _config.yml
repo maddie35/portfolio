@@ -1,15 +1,3 @@
-theme: jekyll-theme-cayman
-title: Maddie's homepage
+title: Maddie's Portfolio
 description: Bookmark this to keep an eye on my project updates!
-
-
-lsi: false
-safe: true
-source: maddie.github.io/
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+theme: jekyll-theme-cayman
