@@ -1,3 +1,3 @@
-# Introduction to Black Holes
+Introduction to Black Holes
 
 text
