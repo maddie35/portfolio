@@ -11,8 +11,54 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+  
+  <style>
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+</style>
+
+
   </head>
+ 
+  
+  
+  
+  
   <body>
+<div class="navbar">
+    <a href="#home">Home</a>
+    <a href="#Technical Docs">Technical Docs</a>
+    <a href="#ERG-Content">ERG Content</a>
+</div>
+    
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
@@ -25,13 +71,6 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-
-<div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#Technical Docs">Technical Docs</a>
-    <a href="#ERG-Content">ERG Content</a>
-
-</div>
 
 <div class="main">
   <p>Some text some text some text some text..</p>
