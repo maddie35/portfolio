@@ -1,5 +1,3 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /ERG-CONTENT/
-
-test
+permalink: /ERG-CONTENT
