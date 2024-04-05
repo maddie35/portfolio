@@ -1,1 +1,1 @@
-# See Maddie's portfolio [here](https://github.com/maddie35/maddies-portfolio/wiki)
+# See Maddie's portfolio [here](https://github.com/maddie35/maddie.github.io/wiki)
