@@ -1,5 +1,10 @@
-Some content that Maddie created while serving as an Employee Resource Group (ERG) Lead at their current company:
+  gem install bundler jekyll
 
-<li>Gender Diversity Dictionary</li>
-<li>Sexual Orientation Dictionary</li>
-<li>Inclusive Language: LGBTQ+ Edition</li>
+  jekyll new my-awesome-site
+
+  cd my-awesome-site
+
+  bundle exec jekyll serve
+
+# => Now browse to http://localhost:4000
+
