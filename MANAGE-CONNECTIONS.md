@@ -50,11 +50,9 @@ At this time, you can only block connections from the mobile app, not from a com
 
   ![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/b5ffd08a-4868-4916-9dba-c735750e109a)
 
-
   2. Tap the person’s name to open their profile.
 
   ![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/01f3e920-4c71-4c03-b107-589ed89c0c18)
-
 
   3. At the bottom of the page, tap **Block Connection**. 
 
@@ -76,11 +74,9 @@ At this time, you can only block connections from the mobile app, not from a com
 
   ![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/a579a942-deba-455e-b5c0-de153e0e7da0)
 
-
   2. Tap the bell icon in the top right.
 
   ![Screenshot of the top of the Connections page. A red arrow points to the black cell icon at the top right of the screen.](https://github.com/maddie35/maddie.github.io/assets/147114265/62396d9d-defc-49b0-a68c-8a0ba39d91ad)
-
 
   3. Tap the **Add** button next to the user’s name.
 
