@@ -356,15 +356,15 @@ a {
   border-top: solid 1px $hr-border-color;
 
   @include large {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
   }
 
   @include medium {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
   }
 
   @include small {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
   }
 }
 
