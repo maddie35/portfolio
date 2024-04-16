@@ -124,7 +124,9 @@ a {
   }
 }
 
+
 .dropdown {
+  display: inline-block;
   position: relative;
 }
 .dropdown-content {
@@ -147,6 +149,7 @@ a {
   color: #FFFFFF;
   background-color: #00A4BD;
 }
+
 
 .project-name {
   margin-top: 0;
