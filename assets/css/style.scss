@@ -1,23 +1,4 @@
 ---
 ---
 
-.site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px $hr-border-color;
-
-  @include large {
-    font-size: 0.8rem;
-  }
-
-  @include medium {
-    font-size: 0.8rem;
-  }
-
-  @include small {
-    font-size: 0.7rem;
-  }
-}
-
-
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman.scss";
