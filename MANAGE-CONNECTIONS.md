@@ -1,15 +1,15 @@
 # Manage Connections
 
-### Table of Contents
+### **Table of Contents**
 * [Add a Connection]()
 * [Remove a Connection]()
 * [Block a Connection]()
 * [Accept a Connection Request]()
 * [Still Need Help?]()
 
-## Add a Connection
+## **Add a Connection**
 
-### On a Computer:
+### **On a Computer:**
 1. Access the Summit App from a web browser. **_Note_**: For a better experience, we recommend using Google Chrome.
 2. Select **Home** > **Attendees** in the left-hand menu.
 3. In the list of attendees, locate the person you want to connect with. 
@@ -17,7 +17,7 @@
 
 ![Screenshot of the TransTech Summit App on a web browser on a computer. There is a red arrow pointing to the Home icon on the main menu on the left side of the page. A second arrow is pointing to the Attendees icon, which features a Progress Pride Flag icon. A third arrow points to the Add icon, which displays next to an attendee's name.](https://github.com/maddie35/maddie.github.io/assets/147114265/595f6dae-a53b-45ef-86c5-b23427178c6f)
 
-### On the Mobile App: 
+### **On the Mobile App:** 
 1. Open the Summit App on your mobile device.
 2. Select the Attendees icon on the Home page.
 3. In the list of attendees, locate the person you want to connect with. 
