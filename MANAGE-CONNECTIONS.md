@@ -28,18 +28,19 @@
 
 
 ## **Remove a Connection**
-At this time, you can only remove connections from a web browser. Also, we recommend using Google Chrome for a better experience. 
+At this time, you can only remove connections from a web browser.
 
-1. Click **Connections** on the left menu.
-2. Click the person’s name to open their profile.
+1. Access the Summit App from a web browser. **_Note_**: For a better experience, we recommend using Google Chrome.
+2. Click **Connections** on the left menu.
+3. Click the person’s name to open their profile.
 
   <img width="360" alt="Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image." src="https://github.com/maddie35/maddie.github.io/assets/147114265/2a5fedf0-efc8-4b23-9fae-946237e99443">
 
-3. In the top right-hand corner of the page, click the trash bin icon.
+4. In the top right-hand corner of the page, click the trash bin icon.
 
   ![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/7efb411d-1ab0-446c-91e3-bafb5c990496)
 
-4. Click **Yes** in the confirmation pop-up. 
+5. Click **Yes** in the confirmation pop-up. 
 
 ![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/a5f2bf6f-278e-4069-9cd1-b29a985fe3e0)
 
