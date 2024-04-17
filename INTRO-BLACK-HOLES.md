@@ -1,12 +1,12 @@
 # Introduction to Black Holes
 
 ## Table of Contents
-* [Background](#Background)
-* [What's Gravity?](#What's-Gravity?)
-* [What Are Black Holes?](#What-Are-Black-Holes?)
-* [What's the Point of Black Holes?](#What's-the-Point-of-Black-Holes?)
-* [Glossary](#Glossary)
-* [Resources](#Resources)
+* [Background](#background)
+* [What's Gravity?](#whats-gravity)
+* [What Are Black Holes?](#what-are-black-holes)
+* [What's the Point of Black Holes?](#whats-the-point-of-black-holes)
+* [Glossary](#glossary)
+* [Resources](#resources)
 
 ## **Background**
 Black holes are one of the more mysterious aspects of our universe. However, even though there is a lot that we still don't know, there is a lot that we _do_ know too. Before we get into black holes, let's start with a core aspect of black holes: Gravity.  
