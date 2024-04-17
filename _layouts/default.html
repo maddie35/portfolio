@@ -15,28 +15,29 @@
 </head>
 
 <body>
-    
-<div class="navbar">
-  <a href="https://maddie35.github.io/maddie.github.io">Home</a>
-  <div class="dropdown">
-    <button class="dropbtn">Work Samples 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="https://maddie35.github.io/maddie.github.io/MANAGE-CONNECTIONS">Manage Connections</a>
-      <a href="https://maddie35.github.io/maddie.github.io/INTRO-BLACK-HOLES">Intro to Black Holes</a>
-      <a href="https://maddie35.github.io/maddie.github.io/TECH-DOC">Technical Documentation</a>
-    </div>
-  </div> 
-</div>
-  
+      
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">Maddie's Portfolio</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>     
-    </header>
 
+      <div class="navbar">
+      <a href="https://maddie35.github.io/maddie.github.io">Home</a>
+        <div class="dropdown">
+          <button class="dropbtn">Work Samples 
+            <i class="fa fa-caret-down"></i>
+          </button>
+        <div class="dropdown-content">
+            <a href="https://maddie35.github.io/maddie.github.io/MANAGE-CONNECTIONS">Manage Connections</a>
+            <a href="https://maddie35.github.io/maddie.github.io/INTRO-BLACK-HOLES">Intro to Black Holes</a>
+            <a href="https://maddie35.github.io/maddie.github.io/TECH-DOC">Technical Documentation</a>
+        </div>
+      </div> 
+    </div>
+
+    </header>
+  
     <main id="content" class="main-content" role="main">
       {{ content }}
 
