@@ -17,9 +17,10 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">Maddie's Portfolio</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        
-      <ul>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>     
+    </header>
+
+  <ul>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">Work Samples</a></li>
   <li class="dropdown">
@@ -31,9 +32,7 @@
     </div>
   </li>
 </ul>
-     
-    </header>
-
+    
     <main id="content" class="main-content" role="main">
       {{ content }}
 
