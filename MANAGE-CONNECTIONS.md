@@ -33,14 +33,14 @@ At this time, you can only remove connections from a web browser.
 1. Access the Summit App from a web browser. **_Note_**: For a better experience, we recommend using Google Chrome.
 2. Click **Connections** on the left menu.
 3. Click the person’s name to open their profile.
-  <img width="360" alt="Screenshot showing the TransTech Summit App on a web browser. There is a red arrow pointing to the Connection icon on the main left menu. There is another red arrow pointing to a Connection named Luke Skywalker." src="https://github.com/maddie35/maddie.github.io/assets/147114265/2a5fedf0-efc8-4b23-9fae-946237e99443">
+  <img width="430" alt="Screenshot showing the TransTech Summit App on a web browser. There is a red arrow pointing to the Connection icon on the main left menu. There is another red arrow pointing to a Connection named Luke Skywalker." src="https://github.com/maddie35/maddie.github.io/assets/147114265/2a5fedf0-efc8-4b23-9fae-946237e99443">
 5. In the top right-hand corner of the page, click the trash bin icon.
 6. Click **Yes** in the confirmation pop-up.
 
   
-  <img width="380" alt="Screenshot showing an attendee's profile in the TransTech Summit App on a web browser on a computer. The user is Luke Skywalker. There is a red arrow pointing to a Trash Can icon in the top right of the page. The trash can icon is also circled by a red square for emphasis. " src="https://github.com/maddie35/maddie.github.io/assets/147114265/7efb411d-1ab0-446c-91e3-bafb5c990496">
+  <img width="490" alt="Screenshot showing an attendee's profile in the TransTech Summit App on a web browser on a computer. The user is Luke Skywalker. There is a red arrow pointing to a Trash Can icon in the top right of the page. The trash can icon is also circled by a red square for emphasis. " src="https://github.com/maddie35/maddie.github.io/assets/147114265/7efb411d-1ab0-446c-91e3-bafb5c990496">
   
-  <img width="390" alt="Screenshot of the confirmation pop-up message. The message reads: Confirm Remove. Are you sure you want to remove this connection? Any messages associated with this connection will be deleted, and you won't be able to message each other. Then, there is a white No button and a purple Yes button." src="https://github.com/maddie35/maddie.github.io/assets/147114265/a5f2bf6f-278e-4069-9cd1-b29a985fe3e0">
+  <img width="490" alt="Screenshot of the confirmation pop-up message. The message reads: Confirm Remove. Are you sure you want to remove this connection? Any messages associated with this connection will be deleted, and you won't be able to message each other. Then, there is a white No button and a purple Yes button." src="https://github.com/maddie35/maddie.github.io/assets/147114265/a5f2bf6f-278e-4069-9cd1-b29a985fe3e0">
 
 
 ## **Block a Connection**
