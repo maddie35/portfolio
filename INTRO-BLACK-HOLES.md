@@ -1,14 +1,18 @@
 # Introduction to Black Holes
 
 ## Table of Contents
-[Background](#Background)
-[Glossary](#Glossary)
+* [Background](#Background)
+* [What's Gravity?](#What's Gravity?)
+* [What Are Black Holes?](#What Are Black Holes?)
+* [What's the Point of Black Holes?](#What's the Point of Black Holes?)
+* [Glossary](#Glossary)
+* [Resources](#Resources)
 
 ## **Background**
 Black holes are one of the more mysterious aspects of our universe. However, even though there is a lot that we still don't know, there is a lot that we _do_ know too. Before we get into black holes, let's start with a core aspect of black holes: Gravity.  
 
 ## **What's Gravity?**
-Gravity is an invisible force created by all [matter](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#matter). The more mass an object has, the “stronger” the gravity is. 
+Gravity is an invisible force created by all [matter](#Matter). The more [mass](#mass) an object has, the “stronger” the gravity is. 
 
 ### Gravity & Space-Time
 Draw a stick figure on a piece of paper. That figure can only experience life within that piece of paper; they can’t see or sense you. They are living on a 2D surface, like a square, where they can only move up, down, left, and right. 
@@ -149,7 +153,7 @@ Note: A supermassive black hole sits at the center of most galaxies, including o
 A massive and extremely bright explosion of a star.
  
 
-## Sources
+## **Sources**
 * [A Brief History of Time](https://www.google.com/search?sca_esv=4a5a031700450f0f&rlz=1C1RXQR_enUS1067US1067&sxsrf=ACQVn0-ymnn5Umgyo6o8fu_NE3Oi7CgyDw:1711560494774&q=A+Brief+History+of+Time&stick=H4sIAAAAAAAAAONgFuLSz9U3MCxJyavMUOIAsTMKilK0pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWs4o4KTkWZqWkKHpnFJflFlQr5aQohmbmpAGzTJgJOAAAA&sa=X&ved=2ahUKEwjZx7Xa-5SFAxWGIUQIHfBJDHQQ9OUBegQIKRAF#ip=1) (book) by Stephen Hawking
 * [Hawking on the Big Bang and Black Holes, Vol. 8](https://www.google.com/search?q=Hawking+on+the+big+bang+and+black+holes+volume+8&sca_esv=4a5a031700450f0f&rlz=1C1RXQR_enUS1067US1067&sxsrf=ACQVn0-09kSIjz9cZFN8YbvnjJnfNaGU7g%3A1711560854990&ei=llgEZuuJPI2hur8PguiP4Ac&ved=0ahUKEwjrrJeG_ZSFAxWNkO4BHQL0A3wQ4dUDCBA&uact=5&oq=Hawking+on+the+big+bang+and+black+holes+volume+8&gs_lp=Egxnd3Mtd2l6LXNlcnAiMEhhd2tpbmcgb24gdGhlIGJpZyBiYW5nIGFuZCBibGFjayBob2xlcyB2b2x1bWUgOEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp) (book) by Stephen Hawking
 * [Hawking Radiation](https://jila.colorado.edu/~ajsh/bh/hawk.html#:~:text=The%20Hawking%20radiation%20itself%20would,might%20look%20like%20a%20dud.) (webpage) by University of Colorado, Boulder
