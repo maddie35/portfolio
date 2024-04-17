@@ -1,9 +1,12 @@
 # Introduction to Black Holes
 
-## Background
+## Table of Contents
+[Background](## Background)
+
+## **Background**
 Black holes are one of the more mysterious aspects of our universe. However, even though there is a lot that we still don't know, there is a lot that we _do_ know too. Before we get into black holes, let's start with a core aspect of black holes: Gravity.  
 
-## What's Gravity?
+## **What's Gravity?**
 Gravity is an invisible force created by all [matter](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#matter). The more mass an object has, the “stronger” the gravity is. 
 
 ### Gravity & Space-Time
@@ -29,7 +32,7 @@ Picture this same scenario, except the bed represents 3D space and the bowling b
 
 _Image Source: Encyclopedia Britannica_ 
 
-## What Are Black Holes?
+## **What Are Black Holes?**
 
 A black hole is an invisible object* that holds significant mass within a tiny volume, giving it immense gravity. There are different types of black holes, but this introduction focuses on [stellar black holes](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#stellar-black-hole).
 
@@ -92,7 +95,7 @@ In 2019, the Laser Interferometer Gravitational-Wave Observatory (LIGO) successf
 
 _Image Source: LIGO at CalTech_
 
-## What's the Point of Black Holes?
+## **What's the Point of Black Holes?**
 Despite their reputation as the mysterious, destructive beasts of the universe, black holes are an essential part of the universal ecosystem. Here are two examples:
 
 ### They're the universe’s recycling system
@@ -114,7 +117,7 @@ According to scientists at the Chandra X-Ray Observatory at Harvard, "The shock 
 
 _Image Source: INGIMAGE_
 
-## Glossary
+## **Glossary**
 ### Electromagnetic Radiation
 The spectrum of radiant energy, which includes visible light, UV light, radio waves, and X-rays. 
 
