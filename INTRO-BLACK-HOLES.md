@@ -122,7 +122,7 @@ The spectrum of radiant energy, which includes visible light, UV light, radio wa
 The gravitational "boundary" of a black hole that not even light can escape from.
 
 ### Mass
-The amount of matter an object contains. This differs from weight, which measures the force of gravity on an object. For instance, a ball with a mass of 1kg would weigh about 2.5 lbs on Earth and 0.37 lbs on the moon since the gravity is stronger on Earth than it is on the moon.
+The amount of matter an object contains. This differs from weight, which measures the force of gravity on an object. For instance, a ball with a mass of 1kg would weigh about 2.5 lbs on Earth and 0.4 lbs on the moon since the gravity is stronger on Earth than it is on the moon.
 
 ### Matter
 Anything that has mass and takes up space. For example, clouds are matter since water vapor has mass and takes up space. Sound waves aren’t matter since they don’t have mass and don’t take up space.
