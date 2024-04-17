@@ -11,20 +11,25 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-  </head>
-  
-  <body>
-      <ul>
+
+</head>
+
+<body>
+    
+<div class="navbar">
   <li><a href="#home">Home</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Work Samples</a>
+    <button class="dropbtn">Work Samples
+      <i class="fa fa-caret-down"></i>
+    </button>
     <div class="dropdown-content">
         <a href="https://maddie35.github.io/maddie.github.io/MANAGE-CONNECTIONS">Manage Connections</a>
         <a href="https://maddie35.github.io/maddie.github.io/INTRO-BLACK-HOLES" class="btn">Intro to Black Holes</a>
         <a href="https://maddie35.github.io/maddie.github.io/TECH-DOC" class="btn">Technical Doc</a>
     </div>
-  </li>
-</ul>
+  </div>
+</div>
+  
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
