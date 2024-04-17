@@ -12,15 +12,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
+  
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Maddie's Portfolio</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>     
-    </header>
-
-  <ul>
+      <ul>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">Work Samples</a></li>
   <li class="dropdown">
@@ -32,8 +26,13 @@
     </div>
   </li>
 </ul>
-    </body>
-  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Maddie's Portfolio</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>     
+    </header>
+
     <main id="content" class="main-content" role="main">
       {{ content }}
 
