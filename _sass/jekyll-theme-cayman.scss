@@ -64,10 +64,9 @@ a {
 .navbar {
   overflow: hidden;
   background-color: #333;
-  font-family: Arial;
 }
 
-  .navbar a {
+.navbar a {
   float: left;
   font-size: 16px;
   color: white;
@@ -82,18 +81,18 @@ a {
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;
+  font-size: 16px;  
   border: none;
   outline: none;
   color: white;
   padding: 14px 16px;
   background-color: inherit;
-  font-family: inherit; /* Important for vertical align on mobile phones */
-  margin: 0; /* Important for vertical align on mobile phones */
+  font-family: inherit;
+  margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #D3D3D3;
+  background-color: red;
 }
 
 .dropdown-content {
@@ -121,9 +120,6 @@ a {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-
-
 
 
 .page-header {
