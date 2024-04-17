@@ -62,7 +62,7 @@ At this time, you can only block connections from the mobile app, not from a com
 ### **On the Mobile App:**
 1. Tap **Connections**. 
 2. Tap the bell icon in the top right.
- <img width="490" alt="Screenshot of the top of the Connections page. A red arrow points to the black cell icon at the top right of the screen." src="https://github.com/maddie35/maddie.github.io/assets/147114265/62396d9d-defc-49b0-a68c-8a0ba39d91ad">
+ <img width="50" alt="Screenshot of the top of the Connections page. A red arrow points to the black cell icon at the top right of the screen." src="https://github.com/maddie35/maddie.github.io/assets/147114265/62396d9d-defc-49b0-a68c-8a0ba39d91ad">
 3. Tap the **Add** button next to the user’s name.
  <img width="480" alt="Screenshot of the connections requests page. A red arrow points to the Add button next to the name of the user who has requested to connect with you." src="https://github.com/maddie35/maddie.github.io/assets/147114265/d9134bc7-06ae-40bd-9975-65d2eec3803c">
 
