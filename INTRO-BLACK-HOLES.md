@@ -6,13 +6,13 @@
 * [What Are Black Holes?](#what-are-black-holes)
 * [What's the Point of Black Holes?](#whats-the-point-of-black-holes)
 * [Glossary](#glossary)
-* [Resources](#resources)
+* [Sources](#sources)
 
 ## **Background**
 Black holes are one of the more mysterious aspects of our universe. However, even though there is a lot that we still don't know, there is a lot that we _do_ know too. Before we get into black holes, let's start with a core aspect of black holes: Gravity.  
 
 ## **What's Gravity?**
-Gravity is an invisible force created by all [matter](#Matter). The more [mass](#mass) an object has, the “stronger” the gravity is. 
+Gravity is an invisible force created by all [matter](#matter). The more [mass](#mass) an object has, the “stronger” the gravity is. 
 
 ### Gravity & Space-Time
 Draw a stick figure on a piece of paper. That figure can only experience life within that piece of paper; they can’t see or sense you. They are living on a 2D surface, like a square, where they can only move up, down, left, and right. 
@@ -31,7 +31,7 @@ _Image Source: JupiterScientific.org_
 
 As the above image shows, the bed dips to accommodate the weight/mass of the bowling ball. Those living within the 2D surface would not see any difference in their world, but the fabric of their universe has moved. 
 
-Picture this same scenario, except the bed represents 3D space and the bowling ball represents 4D [space-time](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#space-time). In this representation, the bowling ball’s gravity is bending the fabric of space-time (4D). In 3D, we cannot _see_ this bending of space-time. 
+Picture this same scenario, except the bed represents 3D space and the bowling ball represents 4D [space-time](#space-time). In this representation, the bowling ball’s gravity is bending the fabric of space-time (4D). In 3D, we cannot _see_ this bending of space-time. 
 
 ![A digital image with a grid layout representing the fabric of space-time of our universe. Sitting atop that, are three yellow spheres, representing three stars. The fabric of space-time is curving where the stars sit, to accommodate their mass. This curve represents gravity.](https://qph.cf2.quoracdn.net/main-qimg-cfae36d5be2bd3e1fbc52ffec10f16f6-lq)
 
@@ -39,7 +39,7 @@ _Image Source: Encyclopedia Britannica_
 
 ## **What Are Black Holes?**
 
-A black hole is an invisible object* that holds significant mass within a tiny volume, giving it immense gravity. There are different types of black holes, but this introduction focuses on [stellar black holes](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#stellar-black-hole).
+A black hole is an invisible object* that holds significant mass within a tiny volume, giving it immense gravity. There are different types of black holes, but this introduction focuses on [stellar black holes](#stellar-black-holes).
 
 *_Black holes are not technically objects because they are not composed of anything. The “shell” of a black hole is simply the fabric of space-time.  So, while it would be more accurate for me to refer to it as an area of space-time, that’s harder to imagine and conceptualize, so I’ll use “object.”_
 
@@ -73,14 +73,14 @@ There are a few ways we know they can form, and some additional ways scientists 
 
 **Stellar black holes** form when a massive star dies. This is because a very large star can become so unstable that it collapses in on itself and implodes into a black hole. The specific mass and circumstances of the star's death determine if a black hole will form, or not. For instance, the larger the star, the more likely a black hole will form during the star’s collapse. 
 
-[**Supermassive black holes**](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#supermassive-black-hole) are another common type of black hole, but they're more mysterious. One theory is that they formed at the beginning of the universe during the Big Bang due to the sudden, rapid expansion and warping of space-time. In 2023, scientists discovered the oldest supermassive black hole we've ever found: A 13.33 billion-year-old supermassive black hole. (For comparison, today, we exist 13.8 billion years after the Big Bang.) This discovery has led scientists to be more confident in the theory that supermassive black holes formed during the Big Bang. With continuing advances in technology, scientists expect to eventually discover even older supermassive black holes. 
+[**Supermassive black holes**](#supermassive-black-holes) are another common type of black hole, but they're more mysterious. One theory is that they formed at the beginning of the universe during the Big Bang due to the sudden, rapid expansion and warping of space-time. In 2023, scientists discovered the oldest supermassive black hole we've ever found: A 13.33 billion-year-old supermassive black hole. (For comparison, today, we exist 13.8 billion years after the Big Bang.) This discovery has led scientists to be more confident in the theory that supermassive black holes formed during the Big Bang. With continuing advances in technology, scientists expect to eventually discover even older supermassive black holes. 
 
 
 ### How do we find black holes? 
 
 Since black holes are essentially invisible due to their ability to trap everything, including light, there are only two ways that scientists are currently able to detect them.
 
-#### Gravitational Lensing
+#### **Gravitational Lensing**
 When gravity is “strong” enough, it can bend even light itself. Before LIGO, scientists were able to locate black holes by looking for gravitational lensing surrounding a black spot. This meant that a black hole was causing the illusion. 
 
 ![Digital illustration reads: Hubble Measures Deflection of Starlight by a Foreground Black Hole. The image shows a diagram of a black hole in space with a star located to the back right of the black hole. An arrow shows the star's light traveling towards the black hole and then getting caught by the gravity, causing the light to start moving to the left (aka the light is being deflected to the left side of the back hole). The light proceeds to move towards up (the observer) on the left side of the black hole. Thus, to the observer, it would look like the star is on the back left of the black hole even though it's actually on the back right.](https://stsci-opo.org/STScI-01FRKBG9P76VAWP68AN64QQJNT.jpg)
@@ -93,7 +93,7 @@ Animated simulation of gravitational lensing:
 
 _Image Source: Wikipedia_
 
-#### Gravitational Waves
+#### **Gravitational Waves**
 In 2019, the Laser Interferometer Gravitational-Wave Observatory (LIGO) successfully detected gravitational waves from merging black holes. With multiple partner facilities located around the world, they were able to triangulate where the black holes were located in the universe. How all that works is for a Black Holes 201 lesson, but if you're curious, you can read more about it [here](https://phys.org/news/2016-02-ligo.html#:~:text=It%20is%20very%20similar%20to%20waves%20on,object%20bobs%20up%20and%20down%20several%20times.).
 
 ![An artist visualization of gravitational waves caused by two merging black holes. In the image, we see two black circles that represent two black holes orbiting each other as they begin to run into each other. We also see wave-like ripples emanating from the black holes. These ripples represent the movement of the fabric of space-time itself.](https://www.ligo.caltech.edu/system/pages/images/24/page/Gravity_Waves_StillImage.jpg?1699659823)
@@ -104,7 +104,7 @@ _Image Source: LIGO at CalTech_
 Despite their reputation as the mysterious, destructive beasts of the universe, black holes are an essential part of the universal ecosystem. Here are two examples:
 
 ### They're the universe’s recycling system
-Similar to how microorganisms decompose deceased plants/animals, some scientists believe that black holes are universal recycling bins, meaning that they consume and convert matter into [electromagnetic radiation](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#electromagnetic-radiation). Then, they later release a small amount of electromagnetic radiation back out into the universe (picture a black hole burping after a good meal). 
+Similar to how microorganisms decompose deceased plants/animals, some scientists believe that black holes are universal recycling bins, meaning that they consume and convert matter into [electromagnetic radiation](#electromagnetic-radiation). Then, they later release a small amount of electromagnetic radiation back out into the universe (picture a black hole burping after a good meal). 
 
 This emitting of radiation is called Hawking Radiation, named after Stephen Hawking. Over time, this process causes the black hole to eventually "evaporate" and leave behind nothing but leftover radiation. 
 
@@ -114,7 +114,7 @@ _Image Source: NASA/JPL-Caltech_
 
 ### Black holes help spread elements like seeds
 
-When a star dies and collapses, it can explode to create a [supernova](https://github.com/maddie35/maddies-portfolio/wiki/Introduction-to-Black-Holes#supernova). During this event, it is common for the core of very large stars to implode as well, forming a black hole. During this implosion and explosion, some of the star's elements (e.g. carbon and oxygen) will spew out into the surrounding universe. The released elements will then float through space indefinitely until they come across existing celestial objects to combine with or until they help form new celestial objects. 
+When a star dies and collapses, it can explode to create a [supernova](#supernova). During this event, it is common for the core of very large stars to implode as well, forming a black hole. During this implosion and explosion, some of the star's elements (e.g. carbon and oxygen) will spew out into the surrounding universe. The released elements will then float through space indefinitely until they come across existing celestial objects to combine with or until they help form new celestial objects. 
 
 According to scientists at the Chandra X-Ray Observatory at Harvard, "The shock waves from the explosions may also trigger the formation of new stars and new solar systems, so our existence on Earth might be due to an explosion that formed a black hole."
 
