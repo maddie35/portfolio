@@ -2,9 +2,9 @@
 
 ## Table of Contents
 * [Background](#Background)
-* [What's Gravity?](#What's Gravity?)
-* [What Are Black Holes?](#What Are Black Holes?)
-* [What's the Point of Black Holes?](#What's the Point of Black Holes?)
+* [What's Gravity?](#What's-Gravity?)
+* [What Are Black Holes?](#What-Are-Black-Holes?)
+* [What's the Point of Black Holes?](#What's-the-Point-of-Black-Holes?)
 * [Glossary](#Glossary)
 * [Resources](#Resources)
 
