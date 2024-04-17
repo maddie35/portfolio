@@ -1,5 +1,5 @@
 # Manage Connections
-This document covers how to manage your connections in the TransTech Summit App. 
+This document covers how to manage your friend connections in the TransTech Summit App. 
 
 ## **Table of Contents**
 * [Add a Connection]()
