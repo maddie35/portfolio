@@ -39,7 +39,7 @@ _Image Source: Encyclopedia Britannica_
 
 ## **What Are Black Holes?**
 
-A black hole is an invisible object* that holds significant mass within a tiny volume, giving it immense gravity. There are different types of black holes, but this introduction focuses on [stellar black holes](#stellar-black-holes).
+A black hole is an invisible object* that holds significant mass within a tiny volume, giving it immense gravity. There are different types of black holes, but this introduction focuses on [stellar black holes](#stellar-black-hole).
 
 *_Black holes are not technically objects because they are not composed of anything. The “shell” of a black hole is simply the fabric of space-time.  So, while it would be more accurate for me to refer to it as an area of space-time, that’s harder to imagine and conceptualize, so I’ll use “object.”_
 
@@ -73,7 +73,7 @@ There are a few ways we know they can form, and some additional ways scientists 
 
 **Stellar black holes** form when a massive star dies. This is because a very large star can become so unstable that it collapses in on itself and implodes into a black hole. The specific mass and circumstances of the star's death determine if a black hole will form, or not. For instance, the larger the star, the more likely a black hole will form during the star’s collapse. 
 
-[**Supermassive black holes**](#supermassive-black-holes) are another common type of black hole, but they're more mysterious. One theory is that they formed at the beginning of the universe during the Big Bang due to the sudden, rapid expansion and warping of space-time. In 2023, scientists discovered the oldest supermassive black hole we've ever found: A 13.33 billion-year-old supermassive black hole. (For comparison, today, we exist 13.8 billion years after the Big Bang.) This discovery has led scientists to be more confident in the theory that supermassive black holes formed during the Big Bang. With continuing advances in technology, scientists expect to eventually discover even older supermassive black holes. 
+[**Supermassive black holes**](#supermassive-black-hole) are another common type of black hole, but they're more mysterious. One theory is that they formed at the beginning of the universe during the Big Bang due to the sudden, rapid expansion and warping of space-time. In 2023, scientists discovered the oldest supermassive black hole we've ever found: A 13.33 billion-year-old supermassive black hole. (For comparison, today, we exist 13.8 billion years after the Big Bang.) This discovery has led scientists to be more confident in the theory that supermassive black holes formed during the Big Bang. With continuing advances in technology, scientists expect to eventually discover even older supermassive black holes. 
 
 
 ### How do we find black holes? 
