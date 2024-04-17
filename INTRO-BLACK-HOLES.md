@@ -1,7 +1,8 @@
 # Introduction to Black Holes
 
 ## Table of Contents
-[Background](##Background)
+[Background](#Background)
+[Glossary](#Glossary)
 
 ## **Background**
 Black holes are one of the more mysterious aspects of our universe. However, even though there is a lot that we still don't know, there is a lot that we _do_ know too. Before we get into black holes, let's start with a core aspect of black holes: Gravity.  
