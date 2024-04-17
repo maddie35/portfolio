@@ -43,7 +43,6 @@ At this time, you can only remove connections from a web browser.
 ## **Block a Connection**
 At this time, you can only block connections from the mobile app, not from a computer. Also, you can only block users who are your Connections.
 1. In the mobile app, tap **Connections**.
-  <img width="480" alt="Screenshot of the summit app on mobile. A red arrow points to the Connections icon at the bottom of the screen." src="https://github.com/maddie35/maddie.github.io/assets/147114265/b5ffd08a-4868-4916-9dba-c735750e109a">
 2. Tap the person’s name to open their profile.
  <img width="480" alt="Screenshot of the summit app on mobile. A red arrow points to the Connections icon at the bottom of the screen." src="https://github.com/maddie35/maddie.github.io/assets/147114265/01f3e920-4c71-4c03-b107-589ed89c0c18">
 3. At the bottom of the page, tap **Block Connection**. 
@@ -62,9 +61,8 @@ At this time, you can only block connections from the mobile app, not from a com
 
 ### **On the Mobile App:**
 1. Tap **Connections**. 
- <img width="480" alt="Screenshot of the summit app on mobile. A red arrow points to the Connections icon at the bottom of the screen. The Connections icon also displays a red number 1, indicating you have a pending request or notification. " src="https://github.com/maddie35/maddie.github.io/assets/147114265/a579a942-deba-455e-b5c0-de153e0e7da0">
 2. Tap the bell icon in the top right.
- <img width="480" alt="Screenshot of the top of the Connections page. A red arrow points to the black cell icon at the top right of the screen." src="https://github.com/maddie35/maddie.github.io/assets/147114265/62396d9d-defc-49b0-a68c-8a0ba39d91ad">
+ <img width="490" alt="Screenshot of the top of the Connections page. A red arrow points to the black cell icon at the top right of the screen." src="https://github.com/maddie35/maddie.github.io/assets/147114265/62396d9d-defc-49b0-a68c-8a0ba39d91ad">
 3. Tap the **Add** button next to the user’s name.
  <img width="480" alt="Screenshot of the connections requests page. A red arrow points to the Add button next to the name of the user who has requested to connect with you." src="https://github.com/maddie35/maddie.github.io/assets/147114265/d9134bc7-06ae-40bd-9975-65d2eec3803c">
 
