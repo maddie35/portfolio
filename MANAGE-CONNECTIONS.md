@@ -36,8 +36,8 @@ At this time, you can only remove connections from a web browser.
 4. In the top right-hand corner of the page, click the trash bin icon.
 5. Click **Yes** in the confirmation pop-up.
 
-  <img width="360" alt="Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image." src="https://github.com/maddie35/maddie.github.io/assets/147114265/2a5fedf0-efc8-4b23-9fae-946237e99443">
-  ![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/7efb411d-1ab0-446c-91e3-bafb5c990496)
+<img width="360" alt="Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image." src="https://github.com/maddie35/maddie.github.io/assets/147114265/2a5fedf0-efc8-4b23-9fae-946237e99443">
+![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/7efb411d-1ab0-446c-91e3-bafb5c990496)
 ![Screenshot of the home page of the TransTech Social App on mobile. A large red arrow is pointing to the Attendees icon. The icon features the Progress Pride flag image.](https://github.com/maddie35/maddie.github.io/assets/147114265/a5f2bf6f-278e-4069-9cd1-b29a985fe3e0)
 
 
