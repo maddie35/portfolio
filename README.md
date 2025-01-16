@@ -1,4 +1,4 @@
-# **Welcome to my portfolio!**
+# **Welcome to my technical writing portfolio!**
 
 Please use the navigation bar above to explore samples of my work. 
 
