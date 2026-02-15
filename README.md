@@ -1,6 +1,6 @@
 # **Welcome to my portfolio!**
 
-Please use the navigation bar to explore technical writing ("tell") and instructional design ("learn") samples of my work. 
+Please use the navigation bar to explore technical writing ("tell") and learning design ("teach") samples of my work. 
 
 ### **Badges:**
 ![lfc112-creating-effective-documentation-for-develop](https://github.com/maddie35/maddie.github.io/assets/147114265/7f03d43e-8572-4530-bf9c-7f5acfa0e82c)
