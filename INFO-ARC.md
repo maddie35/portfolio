@@ -1,3 +1,3 @@
 #  Information Architecture
 
-![Screenshot of old navigation](https://github.com/maddie35/portfolio/blob/8c7c1cd6edf648f1f77f8a9a1742b3b853e16d2c/Screenshot%202026-04-09%20141444.png)
+![Screenshot of old navigation](https://github.com/maddie35/portfolio/blob/394270a06e4a4d28c86dca7241d82f9adf6904a3/original-site.svg)
