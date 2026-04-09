@@ -15,4 +15,4 @@ NOW:
 
 BONUS: 
 
-With the templatized content providing a consistent experience for both users and computers, we implemented an AI tool to further improve the documentation experience. [View it in action](URL). [Try it yourself](https://docs.affirm.com/).  
+With the templatized content providing a consistent experience for both users and computers, we implemented an AI tool to further improve the documentation experience. [View it in action](https://maddie35.s3.us-east-2.amazonaws.com/AI-assistant.mp4). [Try it yourself](https://docs.affirm.com/).  
