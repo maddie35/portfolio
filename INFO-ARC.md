@@ -17,4 +17,4 @@ BONUS:
 
 With the templatized content providing a consistent experience for both users and computers, we implemented an AI tool to further improve the documentation experience: 
 
-<video src="/AI-assistant.mp4" width="320" height="240" controls></video>
+<video src="https://github.com/maddie35/portfolio/blob/713d324ec78ea9537f884d5e599840c31f35b701/AI-assistant.mp4" width="320" height="240" controls></video>
