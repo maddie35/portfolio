@@ -1,8 +1,14 @@
 #  Information Architecture
 
+BEFORE: 
+
 ![Screenshot of old navigation](https://github.com/maddie35/portfolio/blob/394270a06e4a4d28c86dca7241d82f9adf6904a3/original-site.svg)
 
 Highlights of the old site navigation and structure
 
-<video width="100%" controls>
-  <source src="https://github.com/maddie35/portfolio/blob/628cc0963484888722f6836d143762fb5ca80d14/Before.mp4" type="video/mp4"></video>
+[gif]
+
+NOW: 
+
+![Screenshot of old navigation](https://github.com/maddie35/portfolio/blob/87e1cd481de48e76cb1b14a0a18e3d9913954e9b/after-site.svg)
+
