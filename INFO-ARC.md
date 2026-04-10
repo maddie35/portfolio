@@ -4,7 +4,11 @@ BEFORE:
 
 ![Screenshot of old navigation](https://github.com/maddie35/portfolio/blob/394270a06e4a4d28c86dca7241d82f9adf6904a3/original-site.svg)
 
-The original site structure:
+View the original site structure in Lucidchart:
+[Original information architecture](https://maddie35.s3.us-east-2.amazonaws.com/IA.png)](https://lucid.app/lucidspark/9ef4a81d-e959-4ea1-84f5-07c52e70c498/edit?viewport_loc=-6343%2C-3130%2C18622%2C9180%2C0_0&invitationId=inv_fd9ed048-7a12-474f-bd44-9796082aa03c)
+
+<img width="1900" height="938" alt="image" src="https://github.com/user-attachments/assets/26065aa5-e041-4ccd-a53e-d09984c47922" />
+
 
 ```mermaid
 flowchart TD
