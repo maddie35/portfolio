@@ -11,6 +11,8 @@
 ## NOW
 <img src="https://maddie35.s3.us-east-2.amazonaws.com/after-site.svg" alt="Screenshot of new navigation" width="800">
 
+The new information architecture has streamlined navigation to provide a more intuitive experience for both internal and external users. 
+
 ### AI-Powered Search 
 
 With the templatized content providing a consistent experience for both users and computers, we implemented an AI tool to further improve the documentation experience. [View it in action](https://maddie35.s3.us-east-2.amazonaws.com/AI-assistant.mp4). [Try it yourself](https://docs.affirm.com/).  
