@@ -6,7 +6,7 @@ BEFORE:
 
 View the original site structure in Lucidchart:
 
-[[Original information architecture](https://maddie35.s3.us-east-2.amazonaws.com/IA.png)](https://lucid.app/lucidspark/9ef4a81d-e959-4ea1-84f5-07c52e70c498/edit?viewport_loc=-6343%2C-3130%2C18622%2C9180%2C0_0&invitationId=inv_fd9ed048-7a12-474f-bd44-9796082aa03c)
+[![Original information architecture](https://maddie35.s3.us-east-2.amazonaws.com/IA.png)](https://lucid.app/lucidspark/9ef4a81d-e959-4ea1-84f5-07c52e70c498/edit?viewport_loc=-6343%2C-3130%2C18622%2C9180%2C0_0&invitationId=inv_fd9ed048-7a12-474f-bd44-9796082aa03c)
 
 
 NOW: 
