@@ -11,7 +11,7 @@
 ## NOW
 <img src="https://maddie35.s3.us-east-2.amazonaws.com/after-site.svg" alt="Screenshot of new navigation" width="800">
 
-The new information architecture has streamlined navigation to provide a more intuitive experience for both internal and external users. 
+The new information architecture has streamlined navigation to provide a more intuitive experience for both internal and external users. Each section has a more digestible number of pages with an organization that prioritizes the merchant perspective.
 
 ### AI-Powered Search 
 
