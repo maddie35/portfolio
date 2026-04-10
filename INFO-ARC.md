@@ -1,5 +1,7 @@
 #  Information Architecture
 
+Complete overhaul of the Affirm developer documentation site in 2025. 
+
 ## BEFORE
 <img src="https://maddie35.s3.us-east-2.amazonaws.com/original-site.svg" alt="Screenshot of original navigation" width="800">
 
