@@ -392,7 +392,7 @@
   </section>
 
   <footer>
-    <p>Based on <a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">Understanding SC 2.5.8: Target Size (Minimum)</a>. Outcomes are conveyed with text labels as well as color, and example images include full text alternatives.</p>
+    <p>source: <a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">Understanding SC 2.5.8: Target Size (Minimum)</a>.</p>
   </footer>
 </main>
 </body>
