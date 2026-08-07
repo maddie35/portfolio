@@ -260,12 +260,12 @@
 <main>
   <header>
     <p class="eyebrow">WCAG 2.2 · Success Criterion 2.5.8 (Level AA)</p>
-    <h1>Target Size (Minimum) decision chart</h1>
-    <p class="intro">Work through each question in order for the interactive target you are evaluating. Stop as soon as you reach a green outcome (meets the criterion or qualifies for an exception) or the red outcome at the end (fails the criterion).</p>
+    <h1>Quick Guide: Minimum Target Size</h1>
+    <p class="intro">Work through each question for the interactive target you're evaluating.</p>
     <div class="swatch-row" aria-hidden="false">
       <span class="swatch" role="img" aria-label="A square rendered at the actual size of 24 by 24 CSS pixels"></span>
       <span class="swatch-circle" role="img" aria-label="A circle rendered at the actual diameter of 24 CSS pixels"></span>
-      <p><strong>True-size reference:</strong> the square is exactly 24 × 24 CSS pixels; the circle has a 24 CSS pixel diameter. Compare your target against these when viewed at 100% zoom.</p>
+      <p><strong>True-size reference:</strong> the square is exactly 24 × 24 CSS pixels; the circle has a 24 CSS pixel diameter. You can compare your target against these when viewed at 100% zoom.</p>
     </div>
   </header>
 
@@ -283,7 +283,7 @@
 
     <li class="step">
       <div class="question">
-        <h2>Can the target be centered in a 24 CSS pixel diameter circle that doesn't intersect any other target or another target's circle?</h2>
+        <h2>Is the target centered in a 24 CSS pixel diameter circle that doesn't intersect any other target or another target's circle?</h2>
         <p class="note">This is the <em>spacing</em> exception: a small target is acceptable if it has enough clear space around it.</p>
       </div>
       <div class="branches">
@@ -295,7 +295,7 @@
     <li class="step">
       <div class="question">
         <h2>Does another control on the same page perform the exact same function, and does that control meet the size requirement?</h2>
-        <p class="note">This is the <em>equivalent</em> exception: an adequately sized alternative achieves the same outcome.</p>
+        <p class="note">This is the <em>equivalent</em> exception: an adequately sized alternative that achieves the same outcome.</p>
       </div>
       <div class="branches">
         <p class="branch pass"><span class="tag">Yes</span><span><strong>Allowed exception (Equivalent).</strong> The target passes this criterion.</span></p>
@@ -306,7 +306,7 @@
     <li class="step">
       <div class="question">
         <h2>Is the target inline within a sentence or block of text?</h2>
-        <p class="note">Example: a text hyperlink inside a paragraph, whose size is constrained by the line height of the surrounding text.</p>
+        <p class="note">Example: a text hyperlink inside a paragraph, whose size is constrained by the line-height of the surrounding text.</p>
       </div>
       <div class="branches">
         <p class="branch pass"><span class="tag">Yes</span><span><strong>Allowed exception (Inline).</strong> The target passes this criterion.</span></p>
@@ -316,8 +316,8 @@
 
     <li class="step">
       <div class="question">
-        <h2>Is the target's size determined by the user agent and not modified by the author?</h2>
-        <p class="note">Example: a default browser control or plug-in element whose size the page author has not changed.</p>
+        <h2>Is the target's size determined by the user agent?</h2>
+        <p class="note">Example: a default browser control or plug-in element whose size can't be changed by the page author.</p>
       </div>
       <div class="branches">
         <p class="branch pass"><span class="tag">Yes</span><span><strong>Allowed exception (User agent control).</strong> The target passes this criterion.</span></p>
@@ -327,7 +327,7 @@
 
     <li class="step">
       <div class="question">
-        <h2>Is a specific target size legally required, or essential to conveying the information?</h2>
+        <h2>Is a specific target size legally required or otherwise essential to convey the information?</h2>
         <p class="note">Example: pins on a map where precise placement is essential, or a size mandated by regulation.</p>
       </div>
       <div class="branches">
@@ -344,7 +344,7 @@
 
   <section class="examples" aria-labelledby="examples-heading">
     <h2 id="examples-heading">Examples</h2>
-    <p class="intro">Common patterns where this criterion applies, with passing and failing versions of each. Every image is followed by a caption, and full descriptions are provided as alternative text.</p>
+    <p class="intro">Common patterns where this criterion applies with passing and failing versions of each. Every image is followed by a caption, and full descriptions are provided as alternative text.</p>
 
     <article class="example">
       <h3>Dropdown menu</h3>
