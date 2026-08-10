@@ -94,7 +94,7 @@ Animated simulation of gravitational lensing:
 _Image Source: Wikipedia_
 
 #### **Gravitational Waves**
-In 2019, the Laser Interferometer Gravitational-Wave Observatory (LIGO) successfully detected gravitational waves from merging black holes. With multiple partner facilities located around the world, they were able to triangulate where the black holes were located in the universe. How all that works is for a Black Holes 201 lesson, but if you're curious, you can read more about it [here](https://phys.org/news/2016-02-ligo.html#:~:text=It%20is%20very%20similar%20to%20waves%20on,object%20bobs%20up%20and%20down%20several%20times.).
+In 2016, the Laser Interferometer Gravitational-Wave Observatory (LIGO) successfully detected gravitational waves from merging black holes. With multiple partner facilities located around the world, they were able to triangulate where the black holes were located in the universe. How all that works is for a Black Holes 201 lesson, but if you're curious, you can read more about it [here](https://phys.org/news/2016-02-ligo.html#:~:text=It%20is%20very%20similar%20to%20waves%20on,object%20bobs%20up%20and%20down%20several%20times.).
 
 ![An artist visualization of gravitational waves caused by two merging black holes. In the image, we see two black circles that represent two black holes orbiting each other as they begin to run into each other. We also see wave-like ripples emanating from the black holes. These ripples represent the movement of the fabric of space-time itself.](https://www.ligo.caltech.edu/system/pages/images/24/page/Gravity_Waves_StillImage.jpg?1699659823)
 
@@ -103,10 +103,12 @@ _Image Source: LIGO at CalTech_
 ## **What's the Point of Black Holes?**
 Despite their reputation as the mysterious, destructive beasts of the universe, black holes are an essential part of the universal ecosystem. Here are two examples:
 
-### They're the universe’s recycling system
-Similar to how microorganisms decompose deceased plants/animals, some scientists believe that black holes are universal recycling bins, meaning that they consume and convert matter into [electromagnetic radiation](#electromagnetic-radiation). Then, they later release a small amount of electromagnetic radiation back out into the universe (picture a black hole burping after a good meal). 
+### Are they the universe’s recycling system?
+Black holes leak, very, very slowly. They give off a faint glow, called [Hawking radiation](#hawking-radiation), named after  [Stephen Hawking](#stephen-hawking). Over time, this process causes the black hole to eventually "evaporate" entirely, leaving leave behind nothing. 
 
-This emitting of radiation is called Hawking Radiation, named after Stephen Hawking. Over time, this process causes the black hole to eventually "evaporate" and leave behind nothing but leftover radiation. 
+Here's the part that trips some people up: A black hole doesn't digest a star and burp it up later. Hawking radiation comes from quantum effects happening right at the [event horizon](#Event-Horizon). So while it may appear to be "recycling" matter, it's not. It's more like a bonfire where you get energy back, but you don't get the log back.
+
+What happened to the log, then, or the matter in black holes? Nobody knows, and this is one of the unsolved problems in physics. Physicists consider this as a black hole paradox, and it's been argued about for decades without resolution.
 
 ![An artist's depiction of a black hole emitting Hawking Radiation. A black sphere is surrounded by orbiting light from a sun it is devouring. There is also a light blue and white, spiraling stream that the black sphere is spewing out, which is the Hawking Radiation.](https://cdn.britannica.com/93/240893-138-200BD75F/Berkeley-scientists-find-a-way-to-see-invisible-black-holes.jpg?w=800&h=450&c=crop)
 
@@ -123,11 +125,11 @@ According to scientists at the Chandra X-Ray Observatory at Harvard, "The shock 
 _Image Source: INGIMAGE_
 
 ## **Glossary**
-### Electromagnetic Radiation
-The spectrum of radiant energy, which includes visible light, UV light, radio waves, and X-rays. 
-
 ### Event Horizon
 The gravitational "boundary" of a black hole that not even light can escape from.
+
+### Hawking Radiation
+Faint radiation produced by the edge of a black hole (the event horizon), causing the black hole to slowly lose mass until it eventually evaporates. 
 
 ### Mass
 The amount of matter an object contains. This differs from weight, which measures the force of gravity on an object. For instance, a ball with a mass of 1kg would weigh about 2.5 lbs on Earth and 0.4 lbs on the moon since the gravity is stronger on Earth than it is on the moon.
@@ -140,10 +142,13 @@ The term for the scientifically puzzling black hole's core: The heart of every b
 
 ### Space-Time
 A theoretical and mathematical concept that considers space and time to be inherently connected. 
-In this concept, space is dimensions (3D) and time is one. This means space-time is four dimensions (4D).
+In this concept, space is three dimensions (3D) and time is one. This means space-time is four dimensions (4D).
 
 ### Stellar Black Hole
 These are the black holes that many think about when they hear the term “black hole.” These “regular” black holes are 5-20 times more massive than our sun.
+
+### Stephen Hawking
+A world-renowned theoretical physicist who revolutionized the field and made significant contributions to our understanding of black holes and the universe.
 
 ### Supermassive Black Hole
 A black hole of extremely large size and even more extreme mass. These have a mass of millions to billions of times more massive than our sun.
@@ -152,7 +157,6 @@ Note: A supermassive black hole sits at the center of most galaxies, including o
 ### Supernova
 A massive and extremely bright explosion of a star.
  
-
 ## **Sources**
 * [A Brief History of Time](https://www.google.com/search?sca_esv=4a5a031700450f0f&rlz=1C1RXQR_enUS1067US1067&sxsrf=ACQVn0-ymnn5Umgyo6o8fu_NE3Oi7CgyDw:1711560494774&q=A+Brief+History+of+Time&stick=H4sIAAAAAAAAAONgFuLSz9U3MCxJyavMUOIAsTMKilK0pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWs4o4KTkWZqWkKHpnFJflFlQr5aQohmbmpAGzTJgJOAAAA&sa=X&ved=2ahUKEwjZx7Xa-5SFAxWGIUQIHfBJDHQQ9OUBegQIKRAF#ip=1) (book) by Stephen Hawking
 * [Hawking on the Big Bang and Black Holes, Vol. 8](https://www.google.com/search?q=Hawking+on+the+big+bang+and+black+holes+volume+8&sca_esv=4a5a031700450f0f&rlz=1C1RXQR_enUS1067US1067&sxsrf=ACQVn0-09kSIjz9cZFN8YbvnjJnfNaGU7g%3A1711560854990&ei=llgEZuuJPI2hur8PguiP4Ac&ved=0ahUKEwjrrJeG_ZSFAxWNkO4BHQL0A3wQ4dUDCBA&uact=5&oq=Hawking+on+the+big+bang+and+black+holes+volume+8&gs_lp=Egxnd3Mtd2l6LXNlcnAiMEhhd2tpbmcgb24gdGhlIGJpZyBiYW5nIGFuZCBibGFjayBob2xlcyB2b2x1bWUgOEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp) (book) by Stephen Hawking
