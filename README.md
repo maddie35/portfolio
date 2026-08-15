@@ -5,7 +5,7 @@ You can use the navigation bar to explore samples of my technical writing work.
 ### About Maddie
 For the last decade, I’ve written developer and API documentation, release notes, admin guide articles, reference material, and process documentation that keeps all of it true after launch. I write documentation for technical products in regulated industries (enterprise software, consumer lending, engineering organizations) where the subject matter experts know the material cold and have never had to think about how a stranger encounters it. [Continue reading.](https://maddie35.github.io/portfolio/ABOUT)
 
-### Technical Writing Documentation
+### Writing Samples
 [Affirm Documentation](https://maddie35.github.io/portfolio/TECH-DOC) — Developer-facing API reference and how-to guides. Written in Markdown, published through ReadMe.io.<br>
 [Workday Documentation](https://maddie35.github.io/portfolio/WORKDAY) — Customer-facing documentation for all Workday products; audience is admins.<br>
 [Intro to Black Holes](https://maddie35.github.io/portfolio/INTRO-BLACK-HOLES) — Explaining a genuinely difficult topic to a beginner audience. <br>
