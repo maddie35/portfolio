@@ -1,6 +1,6 @@
 ## Ten years explaining things. Eight making them learnable.
 
-For the last decade, I've written developer/API documentation, release notes, admin guide articles, reference material, and process documentation that keeps all of it true after launch. I write documentation for technical products in regulated industries (enterprise software, consumer lending, engineering organizations) where the subject matter experts know the material cold and have never had to think about how a stranger encounters it.
+For the last decade, I've written developer and API documentation, release notes, admin guide articles, reference material, and process documentation that keeps all of it true after launch. I write documentation for technical products in regulated industries (enterprise software, consumer lending, engineering organizations) where the subject matter experts know the material cold and have never had to think about how a stranger encounters it.
 
 Most of that work is for people who are already frustrated, because nobody spends their Monday morning reading documentation for fun. They arrive because something didn't work or because they have to do something they've never done, and every extra word between them and the answer is a small tax on someone's bad afternoon.
 
