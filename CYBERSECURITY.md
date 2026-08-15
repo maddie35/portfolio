@@ -1,3 +1,0 @@
-# Cybersecurity Training
-## Training
-## Result
