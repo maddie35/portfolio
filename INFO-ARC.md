@@ -17,4 +17,4 @@ The new information architecture has streamlined navigation to provide a more in
 
 ### AI-Powered Search 
 
-With the templatized content providing a consistent experience for both users and computers, we implemented an AI tool to further improve the documentation experience. [View it in action](https://maddie35.s3.us-east-2.amazonaws.com/AI-assistant.mp4). [Try it yourself](https://docs.affirm.com/).  
+With the templatized content providing a consistent experience for both users and computers, we implemented an AI tool to further improve the documentation experience. [View it in action](https://maddie35.s3.us-east-2.amazonaws.com/AI-assistant-site.mp4) or [try it yourself](https://docs.affirm.com/).  
