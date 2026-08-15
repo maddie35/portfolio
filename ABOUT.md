@@ -4,6 +4,10 @@ For the last decade, I've written developer and API documentation, release notes
 
 Most of that work is for people who are already frustrated, because nobody spends their Monday morning reading documentation for fun. They arrive because something didn't work or because they have to do something they've never done, and every extra word between them and the answer is a small tax on someone's bad afternoon.
 
+<img src="https://maddie35.s3.us-east-2.amazonaws.com/image2+(4).jpeg" alt="Maddie Reardon headshot" width="240" style="border-radius: 8px; float: right; margin: 0 0 1rem 1.5rem;">
+
+![Maddie Reardon headshot](https://maddie35.s3.us-east-2.amazonaws.com/image2+(4).jpeg)
+
 ## What I believe about this work
 
 ### Documentation is a product, not an artifact
