@@ -27,7 +27,7 @@ Clear structure helps both a screen reader user and the person skimming at 4:55p
 **Accessibility** — WCAG 2.1 AA, Section 508, Plain language, Universal design.
 
 ### Background
-**Now** — Technical writer and learning designer. Open to new roles.<br>
+**Now** — Open to new roles.<br>
 **10+ years** — Technical writing. Developer documentation, information architecture, style and process standards, editorial workflow.<br>
 **8+ years** — Learning design. eLearning, ILT curricula, assessment and evaluation, LMS administration.<br>
 **Education** — M.A. Education, Learning Design & Technologies and Human Rights, Arizona State University. B.A. English, Professional and Technical Writing, San Jose State University.
