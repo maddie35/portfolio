@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Content strategy — Maddie Reardon</title>
+<meta name="description" content="Unifying Workday's customer documentation: moving from [3 or 4] separate locations to 1 site on Adobe Experience Manager, with structured content and built-in templates.">
+<meta property="og:title" content="Content strategy — Maddie Reardon">
+<meta property="og:description" content="Unifying Workday's customer documentation: moving from [3 or 4] separate locations to 1 site on Adobe Experience Manager, with structured content and built-in templates.">
+<meta property="og:type" content="article">
+<link rel="stylesheet" href="assets/styles.css"><link rel="preconnect" href="https://fonts.gstatic.com"><style>body{margin:0}a{text-decoration:none}a:hover{color:var(--color-accent-700)}.mono{font-family:ui-monospace,Menlo,Consolas,monospace}.btn,.tag{white-space:nowrap}.cs p,.cs li{font-size:17px;line-height:1.7}.cs li{margin:0 0 8px}</style>
+</head>
+<body>
+<div style="min-height:100vh;background:var(--color-bg);color:var(--color-text)">
+
+  <header style="border-bottom:1px solid var(--color-divider);position:sticky;top:0;background:var(--color-bg);z-index:5">
+    <div style="max-width:1180px;margin:0 auto;padding:20px 56px;display:flex;align-items:center;justify-content:space-between;gap:24px">
+      <a href="index.html" style="display:flex;flex-direction:column;gap:5px;color:var(--color-text)">
+        <span style="font-family:var(--font-heading);font-weight:600;font-size:19px;letter-spacing:.01em;line-height:1;text-transform:uppercase">Maddie Reardon</span>
+        <span class="mono" style="font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:color-mix(in srgb,var(--color-text) 55%,transparent)">Principal technical writer</span>
+      </a>
+      <nav style="display:flex;align-items:center;gap:22px;font-family:var(--font-heading);font-size:15px;letter-spacing:.03em;text-transform:uppercase">
+        <a href="index.html" style="color:var(--color-text)">Home</a>
+        <a href="about.html" style="color:var(--color-text)">About</a>
+        <a href="samples.html" style="color:var(--color-accent)">Samples</a>
+        <a class="btn btn-primary" href="request-access.html" style="letter-spacing:.04em">Get in touch</a>
+      </nav>
+    </div>
+  </header>
+
+  <article class="cs" style="max-width:1180px;margin:0 auto;padding:44px 56px 56px">
+    <div style="max-width:940px">
+    <a class="mono" href="samples.html" style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:color-mix(in srgb,var(--color-accent-900) 55%,transparent);display:inline-block;margin-bottom:22px">← Back to samples</a>
+    <p class="mono" style="font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--color-accent-700);margin:0 0 14px">Sample [0X] · content strategy · [years]</p>
+    <h1 style="font-size:56px;line-height:1.06;letter-spacing:-.02em;margin:0 0 18px;max-width:20ch">Unifying Workday’s customer documentation</h1>
+    <p style="max-width:66ch;margin:0">Workday customers found documentation in [3 or 4] different places, and the in-house CMS behind it was slow and expensive to run. We moved everything to 1 site on Adobe Experience Manager (AEM), rebuilt how content is authored, and trained 1,300+ people on the new system. Publishing time dropped from 7 days to 5.</p>
+    <ul>
+      <li><a href="#Problem">The problem</a></li>
+      <li><a href="#Strategy">The strategy</a></li>
+      <li><a href="#Teams">Working across teams</a></li>
+      <li><a href="#Rollout">Rollout and enablement</a></li>
+      <li><a href="#Results">Results and their limits</a></li>
+      <li><a href="#Next">What I’d do differently</a></li>
+    </ul>
+
+    <div class="blueprint" style="display:flex;flex-wrap:wrap;margin:34px 0 0">
+      <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div style="flex:1;min-width:170px;padding:16px 20px"><p class="mono" style="font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--color-accent-700);margin:0 0 8px">Audience</p><p style="font-size:14.5px;line-height:1.55;margin:0">Workday customers, 200+ technical writers, and product and field readiness teams</p></div>
+      <div style="flex:1;min-width:170px;padding:16px 20px;border-left:1px solid var(--color-divider)"><p class="mono" style="font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--color-accent-700);margin:0 0 8px">Approach</p><p style="font-size:14.5px;line-height:1.55;margin:0">Structured, reusable content, built-in templates, beta groups, customer advisory group</p></div>
+      <div style="flex:2;min-width:170px;padding:16px 20px;border-left:1px solid var(--color-divider)"><p class="mono" style="font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--color-accent-700);margin:0 0 8px">Role</p><p style="font-size:14.5px;line-height:1.55;margin:0">Team Lead and Senior Technical Writer, team of 5. Co-owned the content strategy with my manager, co-owned and oversaw the new system and process design, and owned training.</p></div>
+      <div style="flex:1;min-width:170px;padding:16px 20px;border-left:1px solid var(--color-divider)"><p class="mono" style="font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--color-accent-700);margin:0 0 8px">Years</p><p style="font-size:14.5px;line-height:1.55;margin:0">[years]</p></div>
+    </div>
+
+    <h2 id="Problem" style="font-size:34px;letter-spacing:-.02em;margin:44px 0 16px">The problem</h2>
+    <p>Workday customers found documentation in [3 or 4] different places. Release notes lived inside the Workday product, and other documentation lived outside it. A customer trying to understand a feature had to know where each type of content lived before they could find it.</p>
+    <p>Behind the scenes, the in-house CMS was slow to publish, needed constant maintenance, and was expensive to run. Writers spent time working around the tool instead of on the content.</p>
+
+    <h2 id="Strategy" style="font-size:34px;letter-spacing:-.02em;margin:44px 0 16px">The strategy</h2>
+    <p>The goal was 1 place for all documentation, with a consistent experience regardless of content type. 2 decisions carried most of the weight.</p>
+    <h3 style="font-size:24px;letter-spacing:-.015em;margin:30px 0 12px">Structured, reusable content</h3>
+    <p>Content was built as structured components that could be reused across documents instead of copied and maintained in several places.</p>
+    <h3 style="font-size:24px;letter-spacing:-.015em;margin:30px 0 12px">Templates built into the authoring UI</h3>
+    <p>When a writer selected a content type, the matching template loaded automatically. Every page displayed consistently for customers, no matter who wrote it or what kind of documentation it was. Consistency was enforced by the system, not by a style guide writers had to remember.</p>
+    <p>We also built tooltips into the interface for writers and for reviewers and SMEs, so guidance appeared at the moment of the decision instead of in a separate manual.</p>
+
+    <h2 id="Teams" style="font-size:34px;letter-spacing:-.02em;margin:44px 0 16px">Working across teams</h2>
+    <p>The migration touched everyone who created, reviewed, or relied on documentation. I partnered with product, support, leadership, technical writers and writing managers, and the learning team. [Optional: 1 sentence on what 1 or 2 of these partners contributed.]</p>
+    <p>Workday also had an existing customer content advisory group. Those customers tested the new experience early and gave feedback throughout, so customer input shaped the design before launch instead of after it.</p>
+
+    <h2 id="Rollout" style="font-size:34px;letter-spacing:-.02em;margin:44px 0 16px">Rollout and enablement</h2>
+    <ul>
+      <li>Beta groups from every cross-functional partner tested the system before launch, which built buy-in with the people whose workflows were changing most.</li>
+      <li>Before go-live, ran training workshops for everyone who would use the tool internally.</li>
+      <li>Built customer-facing documentation that introduced the new experience before it arrived.</li>
+      <li>Held office hours after go-live to support customers through the change.</li>
+      <li>Designed and delivered training for 200+ technical writers and 1,000+ people from product and field readiness teams, supported by job aids and eLearning in Workday Learning.</li>
+    </ul>
+
+    <h2 id="Results" style="font-size:34px;letter-spacing:-.02em;margin:44px 0 16px">Results and their limits</h2>
+    <div class="blueprint" style="display:flex;flex-wrap:wrap;margin:26px 0 0">
+      <i class="corner tl"></i><i class="corner tr"></i><i class="corner bl"></i><i class="corner br"></i>
+      <div style="flex:1;min-width:170px;padding:16px 20px"><p style="font-family:var(--font-heading);font-size:34px;line-height:1.1;margin:0 0 6px">7 → 5 days</p><p style="font-size:14.5px;line-height:1.55;margin:0">Internal publishing time</p></div>
+      <div style="flex:1;min-width:170px;padding:16px 20px;border-left:1px solid var(--color-divider)"><p style="font-family:var(--font-heading);font-size:34px;line-height:1.1;margin:0 0 6px">90%</p><p style="font-size:14.5px;line-height:1.55;margin:0">Completion on entirely optional training, across 1,300+ internal users</p></div>
+      <div style="flex:1;min-width:170px;padding:16px 20px;border-left:1px solid var(--color-divider)"><p style="font-family:var(--font-heading);font-size:34px;line-height:1.1;margin:0 0 6px">37%</p><p style="font-size:14.5px;line-height:1.55;margin:0">Less late content, the measure used for cross-functional collaboration</p></div>
+    </div>
+    <p style="margin-top:22px">Customers, including the content advisory group, gave consistently positive feedback on the unified documentation experience.</p>
+    <p>The customer-side evidence is qualitative. Search success, searches with no results, and docs satisfaction were all tracked, but I left Workday about 2 months after go-live, before those results were available to me. The supportable claim is strong customer feedback plus measured gains in publishing speed, internal adoption, and collaboration, not a measured change in customer outcomes.</p>
+    <h3 style="font-size:24px;letter-spacing:-.015em;margin:30px 0 12px">Trade-offs</h3>
+    <p>[Confirm or edit.] Templates tied to content type trade writer flexibility for consistency: content that didn’t fit an existing template needed a new template or a workaround. Structured, reusable content also costs more up front, since writers have to learn to write in components before the reuse pays off. For documentation at Workday’s scale, consistency and reuse were worth that cost.</p>
+
+    <h2 id="Next" style="font-size:34px;letter-spacing:-.02em;margin:44px 0 16px">What I’d do differently</h2>
+    <ul>
+      <li>Add 2 customer-effort baselines before go-live: documentation-related support cases, and a time-to-find task test with the content advisory group. Search and satisfaction data showed how the site performed; these would have shown whether customers spent less effort getting answers. I applied the support-case measure at Affirm afterward.</li>
+      <li>Plan for journey-level analytics. Tracking paths between content types, such as from a release note to the related setup guide, wasn’t possible with the tools at the time, and ratings by content type could only be compiled by hand. Those 2 views would show whether consolidation actually connected content for customers.</li>
+    </ul>
+    <h3 style="font-size:24px;letter-spacing:-.015em;margin:30px 0 12px">What transferred</h3>
+    <ul>
+      <li><strong>Build consistency into the tool, not the style guide.</strong> A template that loads by content type does more than a rule writers have to remember.</li>
+      <li><strong>Put guidance where the decision happens.</strong> Tooltips reach writers and SMEs at the moment they need help, not in a manual they read once.</li>
+      <li><strong>Bring in the people whose work changes most, early.</strong> Beta groups and the customer advisory group turned the people most affected by the change into its first testers.</li>
+    </ul>
+
+    <div style="display:flex;justify-content:space-between;gap:20px;align-items:center;margin-top:48px;padding-top:20px;border-top:1px solid var(--color-divider)">
+      <a class="mono" href="samples.html" style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--color-text)">← All samples</a>
+      <a class="mono" href="[next-sample].html" style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--color-text)">Next: [Next sample] →</a>
+    </div>
+    </div>
+  </article>
+
+  <footer style="border-top:1px solid var(--color-divider)">
+    <div style="max-width:1180px;margin:0 auto;padding:24px 56px;display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap">
+      <p class="mono" style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:color-mix(in srgb,var(--color-text) 55%,transparent);margin:0">Maddie Reardon · Technical writing portfolio</p>
+      <a class="mono" href="index.html" style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--color-text)">Home</a>
+    </div>
+  </footer>
+</div>
+</body>
+</html>
